@@ -10,7 +10,7 @@ This is a Python script for various automation and web scraping tasks.
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/WebScrapingAutomation.git`
+1. Clone this repository: `git clone https://github.com/AdarshKr357/WebScrapingAutomation.git`
 2. Install dependencies: `pip install requests`
 3. Run the script: `python main.py`
 
