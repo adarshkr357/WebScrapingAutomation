@@ -17,3 +17,5 @@ This is a Python script for various automation and web scraping tasks.
 ## Usage
 
 You can use this script as a module in your own Python projects, or run it directly from the command line.
+
+[![](https://img.shields.io/badge/Made%20With%20%E2%9D%A4%EF%B8%8F%20By-Adarsh-red)](https://github.com/adarshkr357)
